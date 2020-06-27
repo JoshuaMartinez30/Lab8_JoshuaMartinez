@@ -1,0 +1,2 @@
+Rigo;6;12;Tierra;Humano
+Pedro;7;44;Tierra;amanto
